@@ -75,9 +75,3 @@ Accuracy improvement with dynamic calibration
 Support for full word and sentence formation
 
 Save decoded messages to a log file
-
-🔗 Connect
-Created by Rahul Mirji
-📍 HKBK College of Engineering
-📲 Follow my tech reels on Instagram @rahul__mirji
-```
